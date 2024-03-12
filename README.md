@@ -35,13 +35,17 @@ Link Video Báo Cáo: https://www.youtube.com/watch?v=asq4lMO2jKk&t=837s
 - Tạo Data Source View
 - Tạo cube, thêm measure và các dim cần thiết,tạo các phân cấp 
 - Truy vấn các câu hỏi mà nhóm đưa ra bằng công cụ SSAS, Pivot Table, PowerBI
+------------------------
 ### 3.3 Xây dựng Dashboard với PowerBI
 - Dashboard Thống kê tất cả các ca tai nạn và thương vong theo địa điểm:
 ![image](https://github.com/nguyenthanhhungDE/DATA-WAREHOUSE-ACCIDENT-US-2016-2021/assets/134383281/4a7b8e9c-c7f6-4299-98fc-5f5172504695)
+------------------------
 - Dashboard Thống kê tất cả các ca tai nạn và thương vong theo thời gian:
 ![image](https://github.com/nguyenthanhhungDE/DATA-WAREHOUSE-ACCIDENT-US-2016-2021/assets/134383281/ab79bd1f-5431-4a80-8aa6-f241f9b1a5a7)
+------------------------
 - Dashboard Thống kê tất cả các ca tai nạn và thương vong theo các điều kiện có thể dãn đến tai nạn:
 ![image](https://github.com/nguyenthanhhungDE/DATA-WAREHOUSE-ACCIDENT-US-2016-2021/assets/134383281/2edfd562-1fd7-4195-9761-d4ddcabdfcbf)
+------------------------
 
 
 
