@@ -21,7 +21,6 @@ Phân tích dữ liệu tai nạn giao thông cũng có thể cung cấp thông 
 - DimWeather : Thông tin về thời tiết
 - DimWeatherCondition : Thông tin về điều kiện thời tiết
   Diagram :
-![image](https://github.com/nguyenthanhhungDE/DATA-WAREHOUSE-ACCIDENT-US-2016-2021/assets/134383281/5c7756c4-8144-41ff-876b-b4c01aeca09e)
 ![image](https://raw.githubusercontent.com/duythai22/DATA-WAREHOUSE-ACCIDENT-US-2016-2021/main/Diagram-Image/Diagram_Image.png)
 Link Video Báo Cáo: https://www.youtube.com/watch?v=asq4lMO2jKk&t=837s
 ## 3. Nội dung chính của dự án
